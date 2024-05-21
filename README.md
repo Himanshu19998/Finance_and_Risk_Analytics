@@ -19,8 +19,11 @@ Provide consultation to two different investors, Mr. Patrick Jyenger and Mr. Pet
 The data consists of 10 years of performance for stocks listed on the S&P 500 index. It includes a total of 24 stocks, categorized into the following sectors:
 
 Aviation: 6 stocks
+
 Finance: 6 stocks
+
 Healthcare and Pharmaceuticals: 6 stocks
+
 Technology: 6 stocks
 
 ## Analysis and Visualization
