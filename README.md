@@ -23,12 +23,16 @@ Finance: 6 stocks
 Healthcare and Pharmaceuticals: 6 stocks
 Technology: 6 stocks
 
-##Analysis and Visualization
-###Metrics Derived
+## Analysis and Visualization
+### Metrics Derived
 Annual Returns: Calculated to assess the yearly performance of each stock.
+
 Annual Risk: Annualized standard deviation of daily returns, representing the volatility of each stock.
+
 Cumulative Returns: Total returns over the period, showing the aggregated growth of each stock.
+
 Daily Returns: Percentage change in stock prices day over day.
+
 Sharpe Ratio: Risk-adjusted return metric to compare the performance of different stocks.
 
 ## Tools Used
